@@ -7,5 +7,6 @@ You can try out the live application here:
 👉 **[Launch ATS Resume Checker App](https://ats-resume-checker-vuom.onrender.com)**
 
 ## 📸 App Preview
-![Application Screenshot](<img width="1354" height="624" alt="Screenshot 2026-06-01 192902" src="https://github.com/user-attachments/assets/79d8fb77-b91b-48a9-a4d5-639ac9646261" />
+![Application Screenshot](<img width="1190" height="470" alt="image" src="https://github.com/user-attachments/assets/d3bfd353-425c-4706-b2d0-c0ff2ede3deb" />
+
 )
