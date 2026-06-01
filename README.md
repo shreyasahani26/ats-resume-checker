@@ -9,4 +9,4 @@ You can try out the live application here:
 ## 📸 App Preview
 ![Application Screenshot](<img width="1190" height="470" alt="image" src="https://github.com/user-attachments/assets/d3bfd353-425c-4706-b2d0-c0ff2ede3deb" />
 
-)
+
